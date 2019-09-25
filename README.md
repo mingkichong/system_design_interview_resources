@@ -8,6 +8,7 @@
 * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
 * [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 * [High Scalability](http://highscalability.com/)
+* [AWS Architecture Center](https://aws.amazon.com/architecture/)
 
 ## Videos
 
