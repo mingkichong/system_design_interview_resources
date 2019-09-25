@@ -14,6 +14,10 @@
 
 * [Harvard cs75 lecture videos](http://cs75.tv/2012/summer/)
 
+## Files
+
+* [Amazon Systems Design Preparation Document](Amazon%20Systems%20Design%20Preparation%20Document%20v1.pdf)
+
 ## Other People's Collections
 * [checkcheckzz/system-design-interview git repo](https://github.com/checkcheckzz/system-design-interview)
 * [donnemartin/system-design-primer git repo](https://github.com/donnemartin/system-design-primer)
