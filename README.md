@@ -9,6 +9,7 @@
 * [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 * [High Scalability](http://highscalability.com/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
+* [System Design Preparation Materials](https://leetcode.com/discuss/general-discussion/276595/system-design-preparation-materials)
 
 ## Videos
 
