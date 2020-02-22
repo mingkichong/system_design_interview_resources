@@ -23,3 +23,4 @@
 ## Other People's Collections
 * [checkcheckzz/system-design-interview git repo](https://github.com/checkcheckzz/system-design-interview)
 * [donnemartin/system-design-primer git repo](https://github.com/donnemartin/system-design-primer)
+* [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
